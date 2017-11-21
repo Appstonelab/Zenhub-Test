@@ -1,2 +1,2 @@
 # Zenhub-Test
-https://travis-ci.org/Appstonelab/Zenhub-Test.svg?branch=master
+![](https://travis-ci.org/Appstonelab/Zenhub-Test.svg?branch=master)
