@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6DC13401FC43A4300381F56"
-               BuildableName = "TravisCI Demo.app"
-               BlueprintName = "TravisCI Demo"
-               ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+               BuildableName = "TravisCI_Demo.app"
+               BlueprintName = "TravisCI_Demo"
+               ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6DC13541FC43A4300381F56"
-               BuildableName = "TravisCI DemoTests.xctest"
-               BlueprintName = "TravisCI DemoTests"
-               ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+               BuildableName = "TravisCI_DemoTests.xctest"
+               BlueprintName = "TravisCI_DemoTests"
+               ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -44,9 +44,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6DC135F1FC43A4300381F56"
-               BuildableName = "TravisCI DemoUITests.xctest"
-               BlueprintName = "TravisCI DemoUITests"
-               ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+               BuildableName = "TravisCI_DemoUITests.xctest"
+               BlueprintName = "TravisCI_DemoUITests"
+               ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F6DC13401FC43A4300381F56"
-            BuildableName = "TravisCI Demo.app"
-            BlueprintName = "TravisCI Demo"
-            ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+            BuildableName = "TravisCI_Demo.app"
+            BlueprintName = "TravisCI_Demo"
+            ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,9 +78,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F6DC13401FC43A4300381F56"
-            BuildableName = "TravisCI Demo.app"
-            BlueprintName = "TravisCI Demo"
-            ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+            BuildableName = "TravisCI_Demo.app"
+            BlueprintName = "TravisCI_Demo"
+            ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,9 +97,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F6DC13401FC43A4300381F56"
-            BuildableName = "TravisCI Demo.app"
-            BlueprintName = "TravisCI Demo"
-            ReferencedContainer = "container:TravisCI Demo.xcodeproj">
+            BuildableName = "TravisCI_Demo.app"
+            BlueprintName = "TravisCI_Demo"
+            ReferencedContainer = "container:TravisCI_Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
